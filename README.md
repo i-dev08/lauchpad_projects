@@ -20,16 +20,14 @@ A command-line calculator that evaluates mathematical expressions using the BODM
 
 ## 📦 How to Use
 
-1. Run the program using Python 3:
-   ```bash
-   python calculator_v1.py
-   ```
+1. Make sure you have Python installed on your system (preferably version 3.x).
+2. Download or clone this repository.
+3. Navigate to the directory containing `calculator.py`.
+4. Run the program using:
 
-2. Enter a mathematical expression when prompted.
-
-3. Use:
-   - `h` to view history
-   - `n` to exit and save history to file
+```bash
+python calculator.py
+ ```
 
 ---
 
